@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://xxxxxxxxxxxxxxxxxxx/xxx.ipa</string>
+					<string>https://raw.githubusercontent.com/hzh409882102/appdownload/master/BigAntIM_5.0.36.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>cn.HangZhouAipu.bigantIM5</string>
 				<key>bundle-version</key>
-				<string>5.0.37</string>
+				<string>5.0.36</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
